@@ -24,19 +24,19 @@ FileExtensions:
 - webp
 - xht
 - xhtml
-ReleaseDate: 2025-04-29
+ReleaseDate: 2025-05-18
 Installers:
 - Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/139.0b1/win32/ast/Firefox%20Setup%20139.0b1.exe
-  InstallerSha256: C568D5B38611393BBA89671048EFD9F4CBBBA0F2A7DBA28C4F343735D09F6E1F
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/139.0b10/win32/ast/Firefox%20Setup%20139.0b10.exe
+  InstallerSha256: F26566FA5786532F00E93775A972971BF323AE296AFF82B29A8871827366AEC5
   ProductCode: Firefox Developer Edition 139.0 (x86 ast)
 - Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/139.0b1/win64/ast/Firefox%20Setup%20139.0b1.exe
-  InstallerSha256: 07CDE40856BB3586EA256F86871E93B6FECF2A4E1D7A8C729272F2530B3FB2B8
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/139.0b10/win64/ast/Firefox%20Setup%20139.0b10.exe
+  InstallerSha256: 42D1F1EE8677092C1D83F9CECC6FA0178EB17B4E617022A682663B3308A35E7F
   ProductCode: Firefox Developer Edition 139.0 (x64 ast)
 - Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/139.0b1/win64-aarch64/ast/Firefox%20Setup%20139.0b1.exe
-  InstallerSha256: A6112127716EC71F96C12AF0CB5C4A5A684CEC6704919E580F175F0AB5289997
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/139.0b10/win64-aarch64/ast/Firefox%20Setup%20139.0b10.exe
+  InstallerSha256: 6BDB45E45D3BB4771F7C66BF22422DC2B823960711C8D04E2C87B044E68886F3
   ProductCode: Firefox Developer Edition 139.0 (arm64 ast)
 ManifestType: installer
 ManifestVersion: 1.10.0
